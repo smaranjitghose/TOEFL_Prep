@@ -1,0 +1,27 @@
+# My Response:
+
+The author states that the internet is an integral part of the modern world and inspite of the enormous areas of knowledge and information it encompasses, the internet has led to the degradation in the capabilties of people. He provides three reasons of support. The professor refutes this by saying that the notion of the modern techology having ill effects on people is a misnomer cherised by elderly people who do not fully understand the how it works. The professor further refutes each of the author's reasons.
+
+Firstly, the reading suggests that with the widespread use of the internet people are becoming less intelligent. This is owing to the fact that they tend to use other's ideas and experiences which are easily available on the internet to solve problems rather than brainstorming themselves. The professor refutes this by saying that with the widespread use of the internet people tend to get smarter. She adds on that this observed by the fact that countries having a better access to internet facilities has shown an average of 10 point rise in IQ as compared to those countries which do not have a similar access. 
+
+Seondly, the article poists that the use of internet has led to the decrease in attention span of people. This is because of the multiple distractions that we encounter while surfing on the internet which gradually leads to the diminishing of our capability to process significant information for a longer period of time. The professor opposes this by saying that although some studies indicating the loss of attention span in recent years where the internet as become an integral part of one's life are true, it has lead to the development of multi-tasking skills. These skills are benefitial in a lot of scenarios. In addition to that, people have gained the ability to get back to their original flow of work without being haulted by abrupt interruptions. Moreover due to the vast amount of information being available people tend to spend more attention on topics that truly interest them.
+
+Thirdly, the reading says that the internet has led to the elimination of the need for critical thiniking. This is beacuse of the fact that the quick access to a variety of solutions in one's fingertips limits one's efforts to experiment with the situations or problems at hand and they tend to make premature decisions without having strong confidence based on the evidence of their own efforts. However the author says that due to the internet facilities people are not limited by physical boundaries to get experiences as they are connected to a global hub where people from diverse backgrounds and geographical locations can share each other's experience. This leads to the formation of broader thinking and better decision making capabilites. As people not only get to learn from their own mistakes but other's mistakes as well, they are bound to make even smarter decisions and have stong critical thinking ability which keeps on building with passage of time.
+
+# Difficulties:
+
+- Delay in first 2 lines of intro 
+- 2nd reason too long
+- Author's reason 1 unable to identify in go 1
+- Professor's reasons 2 and 3 mixed up 
+
+# Mistakes:
+
+replaced professor by author[3rd Para]
+Spelling errors: thinking, because, capabilites, strong,Secondly,posits
+Redundant: `because of their own efforts` [3rd Para]
+Punctuation "," after However [3rd Para]
+'share each other's ----' experiences. [3rd Para] 
+'the' + passage [3rd Para]
+'the' + internet [2nd para] 
+'the decrease' --> 'a decrease' [2nd para]
