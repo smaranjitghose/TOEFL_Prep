@@ -16,7 +16,7 @@ Nothing special here. This is just for my personal reference.
 - For clearing cutoff of most colleges, a 25 on each section is a must
 - For dream colleges , a 26 or 27 on each section is a must
 - For dope scholarship, a 28 or 29 on each section is a must
-- For bragging off,a 117-120 is a must
+- For bragging rights,a 117-120 is a must
 
 # Writing Section:
 
@@ -46,7 +46,7 @@ Nothing special here. This is just for my personal reference.
 
 ##### Template:
 
-The article states that .... and provides three resasons of support.
+The article states that .... and provides three reasons of support.
 However, the professor explains that... and refutes each of the author's reasons
 
 First the reading claims that ....... The professor refutes this point by saying that... The professor further explains ...
