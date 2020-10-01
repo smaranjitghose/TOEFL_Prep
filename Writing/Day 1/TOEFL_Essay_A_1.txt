@@ -13,7 +13,9 @@ Thirdly, the reading says that the internet has led to the elimination of the ne
 - Delay in first 2 lines of intro 
 - 2nd reason too long
 - Author's reason 1 unable to identify in go 1
-- Professor's reasons 2 and 3 mixed up 
+- Professor's reasons 2 and 3 mixed up
+- Missed Professor's Intro  
+- R1 of professor incomplete info 
 
 # Mistakes:
 
@@ -25,3 +27,26 @@ Punctuation "," after However [3rd Para]
 'the' + passage [3rd Para]
 'the' + internet [2nd para] 
 'the decrease' --> 'a decrease' [2nd para]
+
+# Sample Response: 
+
+The lecturer argues that the internet is not making us “dumber”, contrary to what the passage says.
+The passage states, because of theInternet Age, people have become less adventurous and more about defining their experiences through other peolpe instead. 
+People can also now get information by looking it up, instead of figuring it out for themselves.
+This, the passage author thinks, has diminished our ability to think and to problem solve on our own. 
+The lecturer argues that in areas where most people have internet access, the IQ is higher by 10 points than many years ago. 
+This, according to the lecturer, is considered a huge jump. 
+The lecturer also thinks that the amount of information is beneficial to people. 
+The information givesthem the ability to see things from different perspectives, and not to get information from one source only, like a teach
+
+The passage also states that internet has caused people to lose focus because there is too much stimulation of things around the Web. 
+All of this information overwelms people and they lose focus, according to the passage. 
+While the lecturer does agree that some people may have lesser attention span, she also thinks that internet has increased multitasking skills.
+She also argues thatsome people haven’t experienced decreased attention;
+they have lots of attention for all the information that’s out there if it’s something they’re interested in
+
+# Things to improve:
+
+- Make response shorter
+- Do not make BS spelling errors
+- Spend more time on undertanding and stating points (2nd Para)
