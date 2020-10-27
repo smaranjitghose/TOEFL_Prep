@@ -9,12 +9,12 @@ Tackling Vocab together:
 |3|belie|misrepresent|![](https://media.giphy.com/media/3o7TKANedXKpE8oNlC/giphy.gif)||
 |4|capricious|subjectable to sudden or unaccountable change in mood |![](https://media.giphy.com/media/i4j7e4WLRc0ysXcGip/giphy.gif)||
 |5|cerebral|intellectual (instead of being emotional or physical)|![](https://media.giphy.com/media/JQLxQZw8z90GWPSlAp/giphy.gif)||
-|6|congenial| pleasing or likable on the account on having qualities or interests that resembles own's own|||
+|6|congenial| pleasing or likable on the account on having qualities or interests that resembles own's own|![](https://media.giphy.com/media/PgKWD4nUwxR391lQ2D/giphy.gif)||
 |7|conspicuous|cleary visible; obvious|![](https://media.giphy.com/media/1AHFDmY6X1sUd66knT/giphy.gif)||
 |8|cursory|hasty and hence not thorough or detailed|![](https://media.giphy.com/media/4yGAZNz0aEWPu/giphy.gif)||
 |9|daunting|intimidating; difficult in a perspective|![](https://media.giphy.com/media/Yj6jAvlW84XOuhjemy/giphy.gif)||
 |10|deify|worship or regard as a god|![](https://media.giphy.com/media/l3q2Z5667uYOJ2U6I/giphy.gif)||
-|11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)|![](https://media.giphy.com/media/l3q2Z5667uYOJ2U6I/giphy.gif)|
+|11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)|![](https://media.giphy.com/media/S3u9dwktSUFfIS3x0j/giphy.gif)|
 |12|disseminate|spread widely|![](https://media.giphy.com/media/14oZ18Th0wIfL2/giphy.gif)||
 |13|feasible|possible to do easily or conviniently|![](https://media.giphy.com/media/TKoRWrAaBA7kx6RQqo/giphy.gif)||
 |14|flout|openly disregard some convention, rule or law|![](https://media.giphy.com/media/QOvLuiZZObfch6Q5iY/giphy.gif)||
