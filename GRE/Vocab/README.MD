@@ -15,7 +15,7 @@ Tackling Vocab together:
 |9|daunting|intimidating; difficult in a perspective|||
 |10|deify|worship or regard as a god|||
 |11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)||
-|12|disseminate|spread widely|||
+|12|disseminate|spread widely|![](https://media.giphy.com/media/14oZ18Th0wIfL2/giphy.gif)||
 |13|feasible|possible to do easily or conviniently|![](https://media.giphy.com/media/TKoRWrAaBA7kx6RQqo/giphy.gif)||
 |14|flout|openly disregard some convention, rule or law|![](https://media.giphy.com/media/QOvLuiZZObfch6Q5iY/giphy.gif)||
 |15|homogenous|alike; of the same type|![](https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif)||
