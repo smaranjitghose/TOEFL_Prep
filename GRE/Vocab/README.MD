@@ -33,4 +33,4 @@ Tackling Vocab together:
 |27|spendthrift|spending money or resources in a wasteful or irresponsible manner||
 |28|taciturn|uncommunicative orreserved in speech||
 |29|wary|feeling or showing caution about any possible dangers or troubles||
-|30|austere|devoid of any pleasure,strict(like the life of a monk)||
+|30|austere|devoid of any pleasure,strict(like the life of a monk)|![](https://media.giphy.com/media/3o7bu90hyq7fI1uk7u/giphy.gif)|
