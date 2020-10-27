@@ -5,7 +5,7 @@ Tackling Vocab together:
 |Sl No| Word | Meaning | Cool Visual Referece |Example(Usage in a sentence)|
 |-----|------|-------------------------------------------|---------|----------------------|
 |1|abound|exist in large quantities or number|![](https://media.giphy.com/media/LRzK37z3km2v6/giphy.gif)||
-|2|amorphous|without a clearly defined shape for form|||
+|2|amorphous|without a clearly defined shape or form|![](https://media.giphy.com/media/xTiQywtXCIIxUrNHgc/giphy.gif)||
 |3|belie|misrepresent|||
 |4|capricious|subjectable to sudden or unaccountable change in mood |||
 |5|cerebral|intellectual (instead of being emotional or physical)|||
