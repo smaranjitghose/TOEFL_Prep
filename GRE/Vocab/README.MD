@@ -23,9 +23,9 @@ Tackling Vocab together:
 |17|inspid|tasteless|||
 |18|loquacious|talkative|||
 |19|misanthropic|having or showing a dislike for other people|||
-|20|misnomer|false or inaccurate definition,name or designation|||
+|20|misnomer|false or inaccurate definition,name or designation|![](https://media.giphy.com/media/l4FGq09sQSls3Aufm/giphy.gif)||
 |21|negligent|fail to take proper care of something|![](https://media.giphy.com/media/10VJ2YDMoNEBl6/giphy.gif)||
-|22|obsequious|obidient to an extreme or servile degree|||
+|22|obsequious|obidient to an extreme or servile degree|![](https://media.giphy.com/media/xT5LMUEDcqhqD4WxRm/giphy.gif)||
 |23|placate|make less hostile/angry|![](https://media.giphy.com/media/l1J9NRpOeS7i54xnW/giphy.gif)||
 |24|proclivity|strong inclination towards something or someone|![](https://media.giphy.com/media/jn2iXu2HRpMuovBrrV/giphy.gif)||
 |25|puerile|childishly silly; immature|![](https://media.giphy.com/media/yE72eDy7lj3JS/giphy.gif||
