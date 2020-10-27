@@ -14,13 +14,13 @@ Tackling Vocab together:
 |8|cursory|hasty and hence not thorough or detailed|||
 |9|daunting|intimidating; difficult in a perspective|||
 |10|deify|worship or regard as a god|||
-|11|didactic|||
-|12|disseminate|||
-|13|feasible|||
-|14|flout|||
-|15|homogenous|||
-|16|humdrum|||
-|17|inspid|||
-|18|loquacious|||
-|19|misanthropic|||
-|20|misnomer|||
+|11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)||
+|12|disseminate|spread widely||
+|13|feasible|possible to do easily or conviniently||
+|14|flout|openly disregard some convention, rule or law||
+|15|homogenous|alike; of the same type||
+|16|humdrum|monotonously boring; lacking in variety||
+|17|inspid|tasteless||
+|18|loquacious|talkative||
+|19|misanthropic|having or showing a dislike for other people||
+|20|misnomer|false or inaccurate definition,name or designation||
