@@ -10,7 +10,7 @@ Tackling Vocab together:
 |4|capricious|subjectable to sudden or unaccountable change in mood |![](https://media.giphy.com/media/i4j7e4WLRc0ysXcGip/giphy.gif)||
 |5|cerebral|intellectual (instead of being emotional or physical)|![](https://media.giphy.com/media/JQLxQZw8z90GWPSlAp/giphy.gif)||
 |6|congenial| pleasing or likable on the account on having qualities or interests that resembles own's own|||
-|7|conspicuous|cleary visible; obvious|||
+|7|conspicuous|cleary visible; obvious|![](https://media.giphy.com/media/1AHFDmY6X1sUd66knT/giphy.gif)||
 |8|cursory|hasty and hence not thorough or detailed|||
 |9|daunting|intimidating; difficult in a perspective|||
 |10|deify|worship or regard as a god|||
