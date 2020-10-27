@@ -22,7 +22,7 @@ Tackling Vocab together:
 |16|humdrum|monotonously boring; lacking in variety|||
 |17|inspid|tasteless|||
 |18|loquacious|talkative|![](https://media.giphy.com/media/U5OkqHaFTnznGkKGp5/giphy.gif)||
-|19|misanthropic|having or showing a dislike for other people|||
+|19|misanthropic|having or showing a dislike for other people|![](https://media.giphy.com/media/3o7qE8BaNgqFfuNdNS/giphy.gif)||
 |20|misnomer|false or inaccurate definition,name or designation|![](https://media.giphy.com/media/l4FGq09sQSls3Aufm/giphy.gif)||
 |21|negligent|fail to take proper care of something|![](https://media.giphy.com/media/10VJ2YDMoNEBl6/giphy.gif)||
 |22|obsequious|obidient to an extreme or servile degree|![](https://media.giphy.com/media/xT5LMUEDcqhqD4WxRm/giphy.gif)||
