@@ -13,8 +13,8 @@ Tackling Vocab together:
 |7|conspicuous|cleary visible; obvious|![](https://media.giphy.com/media/1AHFDmY6X1sUd66knT/giphy.gif)||
 |8|cursory|hasty and hence not thorough or detailed|![](https://media.giphy.com/media/4yGAZNz0aEWPu/giphy.gif)||
 |9|daunting|intimidating; difficult in a perspective|![](https://media.giphy.com/media/Yj6jAvlW84XOuhjemy/giphy.gif)||
-|10|deify|worship or regard as a god|||
-|11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)||
+|10|deify|worship or regard as a god|![](https://media.giphy.com/media/l3q2Z5667uYOJ2U6I/giphy.gif)||
+|11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)|![](https://media.giphy.com/media/l3q2Z5667uYOJ2U6I/giphy.gif)|
 |12|disseminate|spread widely|![](https://media.giphy.com/media/14oZ18Th0wIfL2/giphy.gif)||
 |13|feasible|possible to do easily or conviniently|![](https://media.giphy.com/media/TKoRWrAaBA7kx6RQqo/giphy.gif)||
 |14|flout|openly disregard some convention, rule or law|![](https://media.giphy.com/media/QOvLuiZZObfch6Q5iY/giphy.gif)||
