@@ -29,7 +29,7 @@ Tackling Vocab together:
 |23|placate|make less hostile/angry|||
 |24|proclivity|strong inclination towards something or someone|||
 |25|puerile|childishly silly; immature|||
-|26|quixotic|highly idealistic,unrealistic(comes for Don Quixote|||
+|26|quixotic|highly idealistic,unrealistic(comes for Don Quixote|![](https://media.giphy.com/media/B1CrvUCoMxhy8/giphy.gif)||
 |27|spendthrift|spending money or resources in a wasteful or irresponsible manner|||
 |28|taciturn|uncommunicative orreserved in speech|![](https://media.giphy.com/media/3o7ZePX7DfyOBZDrcQ/giphy.gif)||
 |29|wary|feeling or showing caution about any possible dangers or troubles|![](https://media.giphy.com/media/SWovhw1Nua7Ay5XFCb/giphy.gif)||
