@@ -1,15 +1,15 @@
-# The BS I am doing for my TOEFL prep on boosters
+## The BS I am doing(did) for my TOEFL prep on boosters
 
 Nothing special here. This is just for my personal reference.
 
-# Parts of the TOEFL:
+## Parts of the TOEFL:
 
 - Reading Section (where most of us never want to mess up)
 - Listening Section (where most of us are never supposed to mess up but we do)
 - Speaking Section (where most of us mess up)
 - Writing Section (where most of us don't know how we mess up)
 
-# Scores:
+## Scores:
 
 - 30 for each section, making to a 120
 - For a bare minimum, a 24 on each section is a must
@@ -18,9 +18,9 @@ Nothing special here. This is just for my personal reference.
 - For dope scholarship, a 28 or 29 on each section is a must
 - For bragging rights,a 117-120 is a must
 
-# Writing Section:
+## Writing Section:
 
-## Task 1: 
+### Task 1: 
 
 - __3 min__ : to read a passage. This will again be provided later
 - The passage is split in to 4 paras
@@ -63,7 +63,7 @@ Third the reading says that... The professors opposes this point by expaining th
 - Aim for a 350-550 words essay
 
 
-## Task 2:
+### Task 2:
 
 Given a topic, state your opinion and give reasons to support it with example 
 
@@ -79,7 +79,7 @@ Given a topic, state your opinion and give reasons to support it with example
 | Conclusion| 4 | 4 min |
 | Fix up | 0 | 4 min |
 
-Introduction answers the following questions:
+The `Introduction` answers the following questions:
 
 - What is the topic?
 - What is the question?
@@ -89,5 +89,7 @@ Introduction answers the following questions:
 ** Try to answer in 3-5 sentences. More marks for complex sentences.
 
 - There should be transition between paragraphs. Like Furthermore, In addition to, Moreover,
-- Conclusion could be started with: To conlude, Thus, Therefore, 
+- Conclusion could be started with: To conclude, Thus, Therefore, 
 - Word Count should be from 500-650. Make it happen
+
+# [BONUS:My Doomed GRE Prep](./)
