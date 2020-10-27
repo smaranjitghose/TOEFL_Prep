@@ -24,7 +24,7 @@ Tackling Vocab together:
 |18|loquacious|talkative|||
 |19|misanthropic|having or showing a dislike for other people|||
 |20|misnomer|false or inaccurate definition,name or designation|||
-|21|negligent|fail to take proper care of something|||
+|21|negligent|fail to take proper care of something|![](https://media.giphy.com/media/10VJ2YDMoNEBl6/giphy.gif)||
 |22|obsequious|obidient to an extreme or servile degree|||
 |23|placate|make less hostile/angry|![](https://media.giphy.com/media/l1J9NRpOeS7i54xnW/giphy.gif)||
 |24|proclivity|strong inclination towards something or someone|![](https://media.giphy.com/media/jn2iXu2HRpMuovBrrV/giphy.gif)||
