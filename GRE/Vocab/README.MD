@@ -2,7 +2,7 @@ Tackling Vocab together:
 
 # Chunk A
 
-|Sl No| Word | Meaning | Cool Visual Referece |Example(Usage in a sentence)|
+|Sl No| Word | Meaning | Cool Visual Reference |Example(Usage in a sentence)|
 |-----|------|-------------------------------------------|---------|----------------------|
 |1|abound|exist in large quantities or number|![](https://media.giphy.com/media/LRzK37z3km2v6/giphy.gif)||
 |2|amorphous|without a clearly defined shape or form|![](https://media.giphy.com/media/xTiQywtXCIIxUrNHgc/giphy.gif)||
@@ -31,6 +31,6 @@ Tackling Vocab together:
 |25|puerile|childishly silly; immature|||
 |26|quixotic|highly idealistic,unrealistic(comes for Don Quixote|||
 |27|spendthrift|spending money or resources in a wasteful or irresponsible manner|||
-|28|taciturn|uncommunicative orreserved in speech|||
+|28|taciturn|uncommunicative orreserved in speech|![](https://media.giphy.com/media/3o7ZePX7DfyOBZDrcQ/giphy.gif)||
 |29|wary|feeling or showing caution about any possible dangers or troubles|![](https://media.giphy.com/media/SWovhw1Nua7Ay5XFCb/giphy.gif)||
 |30|austere|devoid of any pleasure,strict(like the life of a monk)|![](https://media.giphy.com/media/3o7bu90hyq7fI1uk7u/giphy.gif)||
