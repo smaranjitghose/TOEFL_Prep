@@ -15,22 +15,22 @@ Tackling Vocab together:
 |9|daunting|intimidating; difficult in a perspective|||
 |10|deify|worship or regard as a god|||
 |11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)||
-|12|disseminate|spread widely||
-|13|feasible|possible to do easily or conviniently||
-|14|flout|openly disregard some convention, rule or law||
-|15|homogenous|alike; of the same type||
-|16|humdrum|monotonously boring; lacking in variety||
-|17|inspid|tasteless||
-|18|loquacious|talkative||
-|19|misanthropic|having or showing a dislike for other people||
-|20|misnomer|false or inaccurate definition,name or designation||
-|21|negligent|fail to take proper care of something||
-|22|obsequious|obidient to an extreme or servile degree||
-|23|placate|make less hostile/angry||
-|24|proclivity|strong inclination towards something or someone||
-|25|puerile|childishly silly; immature||
-|26|quixotic|highly idealistic,unrealistic(comes for Don Quixote||
-|27|spendthrift|spending money or resources in a wasteful or irresponsible manner||
-|28|taciturn|uncommunicative orreserved in speech||
-|29|wary|feeling or showing caution about any possible dangers or troubles||
-|30|austere|devoid of any pleasure,strict(like the life of a monk)|![](https://media.giphy.com/media/3o7bu90hyq7fI1uk7u/giphy.gif)|
+|12|disseminate|spread widely|||
+|13|feasible|possible to do easily or conviniently|||
+|14|flout|openly disregard some convention, rule or law|||
+|15|homogenous|alike; of the same type|||
+|16|humdrum|monotonously boring; lacking in variety|||
+|17|inspid|tasteless|||
+|18|loquacious|talkative|||
+|19|misanthropic|having or showing a dislike for other people|||
+|20|misnomer|false or inaccurate definition,name or designation|||
+|21|negligent|fail to take proper care of something|||
+|22|obsequious|obidient to an extreme or servile degree|||
+|23|placate|make less hostile/angry|||
+|24|proclivity|strong inclination towards something or someone|||
+|25|puerile|childishly silly; immature|||
+|26|quixotic|highly idealistic,unrealistic(comes for Don Quixote|||
+|27|spendthrift|spending money or resources in a wasteful or irresponsible manner|||
+|28|taciturn|uncommunicative orreserved in speech|||
+|29|wary|feeling or showing caution about any possible dangers or troubles|![](https://media.giphy.com/media/SWovhw1Nua7Ay5XFCb/giphy.gif)||
+|30|austere|devoid of any pleasure,strict(like the life of a monk)|![](https://media.giphy.com/media/3o7bu90hyq7fI1uk7u/giphy.gif)||
