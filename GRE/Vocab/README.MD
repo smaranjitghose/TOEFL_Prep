@@ -28,7 +28,7 @@ Tackling Vocab together:
 |22|obsequious|obidient to an extreme or servile degree|||
 |23|placate|make less hostile/angry|||
 |24|proclivity|strong inclination towards something or someone|||
-|25|puerile|childishly silly; immature|||
+|25|puerile|childishly silly; immature|![](https://media.giphy.com/media/3o6Ygp85mD8sl8hxFS/giphy.gif)||
 |26|quixotic|highly idealistic,unrealistic(comes for Don Quixote|![](https://media.giphy.com/media/B1CrvUCoMxhy8/giphy.gif)||
 |27|spendthrift|spending money or resources in a wasteful or irresponsible manner|||
 |28|taciturn|uncommunicative orreserved in speech|![](https://media.giphy.com/media/3o7ZePX7DfyOBZDrcQ/giphy.gif)||
