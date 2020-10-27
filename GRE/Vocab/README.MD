@@ -26,7 +26,7 @@ Tackling Vocab together:
 |20|misnomer|false or inaccurate definition,name or designation|||
 |21|negligent|fail to take proper care of something|||
 |22|obsequious|obidient to an extreme or servile degree|||
-|23|placate|make less hostile/angry|||
+|23|placate|make less hostile/angry|![](https://media.giphy.com/media/l1J9NRpOeS7i54xnW/giphy.gif)||
 |24|proclivity|strong inclination towards something or someone|![](https://media.giphy.com/media/jn2iXu2HRpMuovBrrV/giphy.gif)||
 |25|puerile|childishly silly; immature|![](https://media.giphy.com/media/yE72eDy7lj3JS/giphy.gif||
 |26|quixotic|highly idealistic,unrealistic(comes for Don Quixote|![](https://media.giphy.com/media/B1CrvUCoMxhy8/giphy.gif)||
