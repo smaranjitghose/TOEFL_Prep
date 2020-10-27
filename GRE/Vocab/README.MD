@@ -20,7 +20,7 @@ Tackling Vocab together:
 |14|flout|openly disregard some convention, rule or law|||
 |15|homogenous|alike; of the same type|||
 |16|humdrum|monotonously boring; lacking in variety|||
-|17|inspid|tasteless|||
+|17|inspid|tasteless|![](https://media.giphy.com/media/PjlH1T1CqVw4JfvQXV/giphy.gif)||
 |18|loquacious|talkative|![](https://media.giphy.com/media/U5OkqHaFTnznGkKGp5/giphy.gif)||
 |19|misanthropic|having or showing a dislike for other people|![](https://media.giphy.com/media/3o7qE8BaNgqFfuNdNS/giphy.gif)||
 |20|misnomer|false or inaccurate definition,name or designation|![](https://media.giphy.com/media/l4FGq09sQSls3Aufm/giphy.gif)||
@@ -28,7 +28,7 @@ Tackling Vocab together:
 |22|obsequious|obidient to an extreme or servile degree|![](https://media.giphy.com/media/xT5LMUEDcqhqD4WxRm/giphy.gif)||
 |23|placate|make less hostile/angry|![](https://media.giphy.com/media/l1J9NRpOeS7i54xnW/giphy.gif)||
 |24|proclivity|strong inclination towards something or someone|![](https://media.giphy.com/media/jn2iXu2HRpMuovBrrV/giphy.gif)||
-|25|puerile|childishly silly; immature|![](https://media.giphy.com/media/yE72eDy7lj3JS/giphy.gif||
+|25|puerile|childishly silly; immature|![](https://media.giphy.com/media/yE72eDy7lj3JS/giphy.gif)||
 |26|quixotic|highly idealistic,unrealistic(comes for Don Quixote|![](https://media.giphy.com/media/B1CrvUCoMxhy8/giphy.gif)||
 |27|spendthrift|spending money or resources in a wasteful or irresponsible manner|![](https://media.giphy.com/media/3o6Ygp85mD8sl8hxFS/giphy.gif)||
 |28|taciturn|uncommunicative orreserved in speech|![](https://media.giphy.com/media/3o7ZePX7DfyOBZDrcQ/giphy.gif)||
