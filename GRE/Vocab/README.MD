@@ -27,10 +27,10 @@ Tackling Vocab together:
 |21|negligent|fail to take proper care of something|||
 |22|obsequious|obidient to an extreme or servile degree|||
 |23|placate|make less hostile/angry|||
-|24|proclivity|strong inclination towards something or someone|![](https://media.giphy.com/media/3o6Ygp85mD8sl8hxFS/giphy.gif)||
-|25|puerile|childishly silly; immature|![](https://media.giphy.com/media/3o6Ygp85mD8sl8hxFS/giphy.gif)||
+|24|proclivity|strong inclination towards something or someone|![](https://media.giphy.com/media/jn2iXu2HRpMuovBrrV/giphy.gif)||
+|25|puerile|childishly silly; immature|![](https://media.giphy.com/media/yE72eDy7lj3JS/giphy.gif||
 |26|quixotic|highly idealistic,unrealistic(comes for Don Quixote|![](https://media.giphy.com/media/B1CrvUCoMxhy8/giphy.gif)||
-|27|spendthrift|spending money or resources in a wasteful or irresponsible manner|![](https://media.giphy.com/media/3o6Ygp85mD8sl8hxFS/giphy.gif||
+|27|spendthrift|spending money or resources in a wasteful or irresponsible manner|![](https://media.giphy.com/media/3o6Ygp85mD8sl8hxFS/giphy.gif)||
 |28|taciturn|uncommunicative orreserved in speech|![](https://media.giphy.com/media/3o7ZePX7DfyOBZDrcQ/giphy.gif)||
 |29|wary|feeling or showing caution about any possible dangers or troubles|![](https://media.giphy.com/media/SWovhw1Nua7Ay5XFCb/giphy.gif)||
 |30|austere|devoid of any pleasure,strict(like the life of a monk)|![](https://media.giphy.com/media/3o7bu90hyq7fI1uk7u/giphy.gif)||
