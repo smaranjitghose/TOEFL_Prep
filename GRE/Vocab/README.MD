@@ -17,7 +17,7 @@ Tackling Vocab together:
 |11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)||
 |12|disseminate|spread widely|||
 |13|feasible|possible to do easily or conviniently|||
-|14|flout|openly disregard some convention, rule or law|||
+|14|flout|openly disregard some convention, rule or law|![](https://media.giphy.com/media/QOvLuiZZObfch6Q5iY/giphy.gif)||
 |15|homogenous|alike; of the same type|![](https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif)||
 |16|humdrum|monotonously boring; lacking in variety|![](https://media.giphy.com/media/l2JhpjWPccQhsAMfu/giphy.gif)||
 |17|inspid|tasteless|![](https://media.giphy.com/media/PjlH1T1CqVw4JfvQXV/giphy.gif)||
