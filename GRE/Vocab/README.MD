@@ -1,6 +1,6 @@
-Tackling Vocab together:
+# GRE Vocab Workouts!
 
-# Chunk A
+### Chunk A
 
 |Sl No| Word | Meaning | Cool Visual Reference |Example(Usage in a sentence)|
 |-----|------|-------------------------------------------|---------|----------------------|
