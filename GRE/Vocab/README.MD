@@ -12,7 +12,7 @@ Tackling Vocab together:
 |6|congenial| pleasing or likable on the account on having qualities or interests that resembles own's own|||
 |7|conspicuous|cleary visible; obvious|![](https://media.giphy.com/media/1AHFDmY6X1sUd66knT/giphy.gif)||
 |8|cursory|hasty and hence not thorough or detailed|![](https://media.giphy.com/media/4yGAZNz0aEWPu/giphy.gif)||
-|9|daunting|intimidating; difficult in a perspective|||
+|9|daunting|intimidating; difficult in a perspective|![](https://media.giphy.com/media/Yj6jAvlW84XOuhjemy/giphy.gif)||
 |10|deify|worship or regard as a god|||
 |11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)||
 |12|disseminate|spread widely|![](https://media.giphy.com/media/14oZ18Th0wIfL2/giphy.gif)||
