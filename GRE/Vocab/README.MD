@@ -11,7 +11,7 @@ Tackling Vocab together:
 |5|cerebral|intellectual (instead of being emotional or physical)|![](https://media.giphy.com/media/JQLxQZw8z90GWPSlAp/giphy.gif)||
 |6|congenial| pleasing or likable on the account on having qualities or interests that resembles own's own|||
 |7|conspicuous|cleary visible; obvious|![](https://media.giphy.com/media/1AHFDmY6X1sUd66knT/giphy.gif)||
-|8|cursory|hasty and hence not thorough or detailed|||
+|8|cursory|hasty and hence not thorough or detailed|![](https://media.giphy.com/media/4yGAZNz0aEWPu/giphy.gif)||
 |9|daunting|intimidating; difficult in a perspective|||
 |10|deify|worship or regard as a god|||
 |11|didactic|instructional in a patronizing manner(Like a teacher who knows it all)||
