@@ -8,7 +8,7 @@ Tackling Vocab together:
 |2|amorphous|without a clearly defined shape or form|![](https://media.giphy.com/media/xTiQywtXCIIxUrNHgc/giphy.gif)||
 |3|belie|misrepresent|![](https://media.giphy.com/media/3o7TKANedXKpE8oNlC/giphy.gif)||
 |4|capricious|subjectable to sudden or unaccountable change in mood |![](https://media.giphy.com/media/i4j7e4WLRc0ysXcGip/giphy.gif)||
-|5|cerebral|intellectual (instead of being emotional or physical)|||
+|5|cerebral|intellectual (instead of being emotional or physical)|![](https://media.giphy.com/media/JQLxQZw8z90GWPSlAp/giphy.gif)||
 |6|congenial| pleasing or likable on the account on having qualities or interests that resembles own's own|||
 |7|conspicuous|cleary visible; obvious|||
 |8|cursory|hasty and hence not thorough or detailed|||
