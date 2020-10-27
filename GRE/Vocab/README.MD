@@ -2,7 +2,7 @@ Tackling Vocab together:
 
 # Chunk A
 
-|Sl No| Word | Meaning | Example(Usage in a sentence) | Cool Visual Reference|
+|Sl No| Word | Meaning | Cool Visual Referece |Example(Usage in a sentence)|
 |-----|------|-------------------------------------------|---------|----------------------|
 |1|abound|exist in large quantities or number|||
 |2|amorphous|without a clearly defined shape for form|||
