@@ -20,7 +20,7 @@
 |14|flout|openly disregard some convention, rule or law|![](https://media.giphy.com/media/QOvLuiZZObfch6Q5iY/giphy.gif)||
 |15|homogenous|alike; of the same type|![](https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif)||
 |16|humdrum|monotonously boring; lacking in variety|![](https://media.giphy.com/media/l2JhpjWPccQhsAMfu/giphy.gif)||
-|17|inspid|tasteless|![](https://media.giphy.com/media/PjlH1T1CqVw4JfvQXV/giphy.gif)||
+|17|insipid|tasteless|![](https://media.giphy.com/media/PjlH1T1CqVw4JfvQXV/giphy.gif)||
 |18|loquacious|talkative|![](https://media.giphy.com/media/U5OkqHaFTnznGkKGp5/giphy.gif)||
 |19|misanthropic|having or showing a dislike for other people|![](https://media.giphy.com/media/3o7qE8BaNgqFfuNdNS/giphy.gif)||
 |20|misnomer|false or inaccurate definition,name or designation|![](https://media.giphy.com/media/l4FGq09sQSls3Aufm/giphy.gif)||
